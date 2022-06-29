@@ -497,6 +497,9 @@
       90
     ],
     "description": "Yotpo is a user-generated content marketing platform.",
+    "headers": {
+      "yotpo_parsed_request": ""
+    },
     "icon": "Yotpo.svg",
     "js": {
       "yotpo": ""
